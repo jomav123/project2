@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: Example Workflow
 on: push
 jobs:
@@ -15,3 +16,6 @@ jobs:
       - name: Run tests
         run: pytest
 
+=======
+bonjour
+>>>>>>> 28475f7 (updated files)
