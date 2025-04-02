@@ -15,7 +15,11 @@ jobs:
       - name: Run tests
         run: pytest
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Your current branch's version
 =======
 # The rebased branch's version
 >>>>>>> a03e70f
+=======
+
+>>>>>>> a03e70f (files updated)
